@@ -3,7 +3,7 @@ Lab 8
 /****************************************************************************
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
-Número de horas:
+Número de horas: 2
 
 
 /****************************************************************************
@@ -11,7 +11,7 @@ Número de horas:
 ******************************************************************************/
 
 ¿Sí o no?
-
+No
 
 /****************************************************************************
 * Escribe cualquier otro comentario aquí.
@@ -23,8 +23,7 @@ Número de horas:
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
-
+https://github.com/sbarrerar1605 
 /****************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
  *  Para tu firma, escribe /s/, seguido de tu nombre.
@@ -34,4 +33,5 @@ Número de horas:
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[escribe y firma la declaración aquí]
+ Esta tarea de programación representa mi propio trabajo de acuerdo
+ *      con las regulaciones de la Universidad. Sergio Barrera
